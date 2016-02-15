@@ -1,3 +1,10 @@
+.modal-artist-image {
+  height: 350px;
+  width: 350px;
+}
+.more {
+  float: right;
+}
 .widget {
   width: 300px;
   margin: 10px auto 0;
